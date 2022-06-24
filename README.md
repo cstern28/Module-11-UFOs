@@ -13,7 +13,7 @@ This is what the data table looks like when filtered for the criteria of city: "
 ![Image](https://github.com/cstern28/Module-11-UFOs/blob/main/static/screenshots/filtered_table.png)
 
 ## Summary
-A drawback of the webpage, is you cannot see who else searched by similar criteria on the webpage to leverage the knowledge of other people in the world who are knoweledgeable and passionable about UFO sightings. There also is no blog on the website, so you can reach out to other fellow UFO searchers and ask them questions. There is also no way to save search criteria and print previous search criteria to identify patterns in ones discovery of UFO sightings.
+A drawback of the webpage, is you cannot see who else searched by similar criteria on the webpage to leverage the knowledge of other people in the world who are knowledgeable and passionable about UFO sightings. There also is no blog on the website, so you can reach out to other fellow UFO searchers and ask them questions. There is also no way to save search criteria and print previous search criteria to identify patterns in ones discovery of UFO sightings.
 
 I recommend gathering more data of UFO sightings because right now the data is limited to January 2010. I also recommend scrapping other fellow UFO webpages to gather more data for the UFO sightings. Also, I would suggest creating a blog on the website, so the community can callaborate on recent UFO findings together and learn more.
 
